@@ -2,20 +2,26 @@
 
 The files below will also be made available as hard copies in binders at the first task force meeting. They are posted here to allow task force members to view materials in advance of the meeting and for those who prefer digital to hard copies. Supplementary files not found in the binders may also be posted here.
 
-<center>HCR 218 Binder (Digital Version)
-
-Fair and Proportional Fines Task Force</center>
+<center><h2>HCR 218 Binder (Digital Version)</h2><br>
+  <h3>Fair and Proportional Fines Task Force</h3></center>
 
 ### 1. Hawaiʻi Materials
 
-•	[House Concurrent Resolution 218 – Creating the Fair and Proportional Fines Task Force](https://adamcohen3.github.io/SLH2019-HCR218-Task-Force/1- HCR218_SD1_.pdf)<br>
-•	[Act 112 – Creating the Financial Hardship Task Force](1- Act 112 (HB903).PDF)<br>
-•	[House Concurrent Resolution 261 - “Decriminalization of Non-Serious Offenses: Plan of Action” (2005)](1- HCR261_2004_LRB rpt decrim.pdf)<br>
-•	[Senate Concurrent Resolution 98 - “Study to Identify Traffic Offenses and Crimes, Petty Misdemeanor Offenses, and Misdemeanor Offenses that Cause a Disproportionate Workload for the Judiciary and that May be Appropriate or Decriminalization as Infractions” (2015)](1- SCR98-SD1_FINAL_REPORT.pdf)<br>
-•	[FY2018 Statistical Supplement](1- 2018_Annual_Report_Stats_Supplement_ADA.pdf)<br>
-•	State Comparison Chart (Hard copy only)<br>
-•	List of HRS/HAR Traffic and Criminal (misdemeanor and petty misdemeanor) Offenses (Hard copy only)<br>
-•	[Hawaii lawmaker seeks study on sliding-scale tickets, Star-Avertiser](1- Hawaii lawmaker seeks study on sliding-scale tickets_Star-Adv 04-16-19 (3).pdf)<br>
+•	[House Concurrent Resolution 218 – Creating the Fair and Proportional Fines Task Force](https://adamcohen3.github.io/SLH2019-HCR218-Task-Force/1- HCR218_SD1_.pdf)
+
+•	[Act 112 – Creating the Financial Hardship Task Force](1- Act 112 (HB903).PDF)
+
+•	[House Concurrent Resolution 261 - “Decriminalization of Non-Serious Offenses: Plan of Action” (2005)](1- HCR261_2004_LRB rpt decrim.pdf)
+
+•	[Senate Concurrent Resolution 98 - “Study to Identify Traffic Offenses and Crimes, Petty Misdemeanor Offenses, and Misdemeanor Offenses that Cause a Disproportionate Workload for the Judiciary and that May be Appropriate or Decriminalization as Infractions” (2015)](1- SCR98-SD1_FINAL_REPORT.pdf)
+
+•	[FY2018 Statistical Supplement](1- 2018_Annual_Report_Stats_Supplement_ADA.pdf)
+
+•	State Comparison Chart (Hard copy only)
+
+•	List of HRS/HAR Traffic and Criminal (misdemeanor and petty misdemeanor) Offenses (Hard copy only)
+
+•	[Hawaii lawmaker seeks study on sliding-scale tickets, Star-Avertiser](1- Hawaii lawmaker seeks study on sliding-scale tickets_Star-Adv 04-16-19 (3).pdf)
 
 ### 2.  National Materials
 
