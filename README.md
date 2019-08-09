@@ -11,7 +11,7 @@ Syntax highlighted code block
 
 **# 1. Hawaiʻi Materials**
 
-•	[House Concurrent Resolution 218 – Creating the Fair and Proportional Fines Task Force] (1- HCR218_SD1_.pdf)
+•	[House Concurrent Resolution 218 – Creating the Fair and Proportional Fines Task Force] (https://adamcohen3.github.io/SLH2019-HCR218-Task-Force/1-&#32;HCR218_SD1_.pdf)
 
 •	[Act 112 – Creating the Financial Hardship Task Force] (1- Act 112 (HB903).PDF)
 
