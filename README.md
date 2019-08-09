@@ -7,7 +7,7 @@ The files below will also be made available as hard copies in binders at the fir
 Fair and Proportional Fines Task Force
 
 
-# 1. Hawaiʻi Materials
+### 1. Hawaiʻi Materials
 
 •	[House Concurrent Resolution 218 – Creating the Fair and Proportional Fines Task Force](https://adamcohen3.github.io/SLH2019-HCR218-Task-Force/1- HCR218_SD1_.pdf)
 
@@ -23,7 +23,7 @@ Fair and Proportional Fines Task Force
 
 •	List of HRS/HAR Traffic and Criminal (misdemeanor and petty misdemeanor) Offenses (Will be posted soon)
 
-# 2.  National Materials
+### 2.  National Materials
 
 •	[“Dear Colleague” Letter - U.S. Department of Justice, Civil Rights Division, Office for Access to Justice (2016)](2- DOJDearColleague.pdf) 
 
@@ -35,41 +35,32 @@ Fair and Proportional Fines Task Force
 
 •	[NCSC “Lawful Collection of Legal Financial Obligations:  A Bench Card for Judges”](2- NCSC - Bench Card.pdf)
 
-# 3.  State Reports
+### 3.  State Reports
 
-•	Arizona’s “Report and Recommendations of the Task Force on Fair Justice for All: Court-Ordered Fines, Penalties, Fees, and 
-Pretrial Release Policies” (2016)
+•	[Arizona’s “Report and Recommendations of the Task Force on Fair Justice for All: Court-Ordered Fines, Penalties, Fees, and 
+Pretrial Release Policies” (2016)](3- Arizona Task Force on Fines, Fees, and Pretrial Bail Practices.pdf)
 
-•	“San Francisco Fines & Fees Task Force: Initial Findings and Recommendations” (2017)
+•	[“San Francisco Fines & Fees Task Force: Initial Findings and Recommendations” (2017)](3- SF Fines & Fees Task Force Initial Findings and Recommendations May 2017.pdf)
 
-•	Nevada Advisory Committee to the U.S. Commission on Civil Rights’s Letter of Transmittal (2017)
+•	[Nevada Advisory Committee to the U.S. Commission on Civil Rights’s Letter of Transmittal (2017)](3- 06-13-Fines-Fees-Nevada-Memo.pdf)
 
-•	“Consolidating Traffic-Based Financial Obligations in Washington State:  Recommended Plan and Program” (2017)
+•	[“Consolidating Traffic-Based Financial Obligations in Washington State:  Recommended Plan and Program” (2017)](3 - Washington SB 6360 Report_12-01-17.pdf)
 
-4.  State Resources
+### 4.  State Resources
 
-•	Alabama Bench Card
+•	[Alabama Bench Card](4- AlabamaBenchcard.pdf) 
 
-•	Arizona Ability to Pay Bench Card
+•	[Arizona Ability to Pay Bench Card](4- AZ ability to pay bench card.pdf)
 
-•	Solano, California Ticket & Fine Information; Notice of Rights; and Ability to Pay Form
+•	[Solano, California Ticket & Fine Information; Notice of Rights; and Ability to Pay Form](4- Rubicon v. Solano_Final_Settlement.pdf)
 
-•	San Francisco, California “Can’t Afford to Pay Fine” Form
+•	[San Francisco, California “Can’t Afford to Pay Fine” Form](4- San Francisco corrected ATP Form 111418.pdf)
 
-•	Los Angeles, California Petition to Reduce or Vacate Civil Assessment/Petition for an Ability-to-Pay Determination
+•	Los Angeles, California Petition to Reduce or Vacate Civil Assessment/Petition for an Ability-to-Pay Determination[1](4- TRAF051PetitionandOrderFormInfo.pdf)[2](4- TRAF051PetitionandOrderreCRC4106and4335.pdf)
 
-•	LA Flow Chart
+•	[LA Flow Chart](4- LA flow chart.pdf)
 
-5.  Day-Fines Research (?)
+### 5.  Day-Fines Research
 
+•	Forthcoming
 
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/adamcohen3/SLH2019-HCR218-Task-Force/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
