@@ -7,7 +7,7 @@ The files below will also be made available as hard copies in binders at the fir
 Fair and Proportional Fines Task Force
 
 
-#** 1. Hawaiʻi Materials**
+# 1. Hawaiʻi Materials
 
 •	[House Concurrent Resolution 218 – Creating the Fair and Proportional Fines Task Force](https://adamcohen3.github.io/SLH2019-HCR218-Task-Force/1- HCR218_SD1_.pdf)
 
@@ -23,19 +23,19 @@ Fair and Proportional Fines Task Force
 
 •	List of HRS/HAR Traffic and Criminal (misdemeanor and petty misdemeanor) Offenses (Will be posted soon)
 
-#**2.  National Materials**
+# 2.  National Materials
 
-•	“Dear Colleague” Letter - U.S. Department of Justice, Civil Rights Division, Office for Access to Justice (2016) 
+•	[“Dear Colleague” Letter - U.S. Department of Justice, Civil Rights Division, Office for Access to Justice (2016)](2- DOJDearColleague.pdf) 
 
-•	Notice of Former Attorney General Jeff Sessions rescinding DOJ “Dear Colleague” Letter (2018)
+•	[Notice of Former Attorney General Jeff Sessions rescinding DOJ “Dear Colleague” Letter (2018)](2- Jeff Sessions Rescinds 25 Guidance Documents _ OPA _ Department of Justice.pdf)
 
-•	NCSC “Principles on Fines, Fees, and Bail Practices”
+•	[NCSC “Principles on Fines, Fees, and Bail Practices”](2- NCSC - Principles Fines and Fees.pdf)
 
-•	NCSC “Trends in State Courts - Fines, Fees, and Bail Practices: Challenges and Opportunities” (2017) 
+•	[NCSC “Trends in State Courts - Fines, Fees, and Bail Practices: Challenges and Opportunities” (2017)](2- NCSC 2017 - Trends Fines & Fees.pdf) 
 
-•	NCSC “Lawful Collection of Legal Financial Obligations:  A Bench Card for Judges”
+•	[NCSC “Lawful Collection of Legal Financial Obligations:  A Bench Card for Judges”](2- NCSC - Bench Card.pdf)
 
-#**3.  State Reports**
+# 3.  State Reports
 
 •	Arizona’s “Report and Recommendations of the Task Force on Fair Justice for All: Court-Ordered Fines, Penalties, Fees, and 
 Pretrial Release Policies” (2016)
