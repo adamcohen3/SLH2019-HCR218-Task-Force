@@ -1,9 +1,7 @@
-## HCR 218 Task Force 
-### Fair and Proportional Fines
+## HCR 218 
 The files below will also be made available as hard copies in binders at the first task force meeting. They are posted here to allow task force members to view materials in advance of the meeting and for those who prefer digital to hard copies. Supplementary files not found in the binders may also be posted here.
 
-<center><h2>HCR 218 Binder (Digital Version)
-<br>
+<center><h2>HCR 218 Binder<br>
 Fair and Proportional Fines Task Force</h2></center>
 
 ### 1. Hawaiʻi Materials
