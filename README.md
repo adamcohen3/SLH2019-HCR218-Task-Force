@@ -11,11 +11,11 @@ Syntax highlighted code block
 
 **# 1. Hawaiʻi Materials**
 
-•	[House Concurrent Resolution 218 – Creating the Fair and Proportional Fines Task Force] (https://adamcohen3.github.io/SLH2019-HCR218-Task-Force/1-&#32;HCR218_SD1_.pdf)
+•	[House Concurrent Resolution 218 – Creating the Fair and Proportional Fines Task Force](https://adamcohen3.github.io/SLH2019-HCR218-Task-Force/1-&#32;HCR218_SD1_.pdf)
 
-•	[Act 112 – Creating the Financial Hardship Task Force] (1- Act 112 (HB903).PDF)
+•	[Act 112 – Creating the Financial Hardship Task Force](1- Act 112 (HB903).PDF)
 
-•	[House Concurrent Resolution 261 - “Decriminalization of Non-Serious Offenses: Plan of Action” (2005)] (1- HCR261_2004_LRB rpt decrim.pdf)
+•	[House Concurrent Resolution 261 - “Decriminalization of Non-Serious Offenses: Plan of Action” (2005)](1- HCR261_2004_LRB rpt decrim.pdf)
 
 •	Senate Concurrent Resolution 98 - “Study to Identify Traffic Offenses and Crimes, Petty Misdemeanor Offenses, and Misdemeanor Offenses that Cause a Disproportionate Workload for the Judiciary and that May be Appropriate or Decriminalization as Infractions” (2015)
 
