@@ -21,7 +21,9 @@ Fair and Proportional Fines Task Force
 
 •	State Comparison Chart (Hard copy only)
 
-•	List of HRS/HAR Traffic and Criminal (misdemeanor and petty misdemeanor) Offenses (Will be posted soon)
+•	List of HRS/HAR Traffic and Criminal (misdemeanor and petty misdemeanor) Offenses (Hard copy only)
+
+•	[Hawaii lawmaker seeks study on sliding-scale tickets, Star-Avertiser](1- Hawaii lawmaker seeks study on sliding-scale tickets_Star-Adv 04-16-19 (3).pdf)
 
 ### 2.  National Materials
 
