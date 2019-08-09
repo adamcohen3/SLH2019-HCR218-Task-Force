@@ -1,16 +1,23 @@
-## Welcome to the HCR 218 Task Force Workspace
+## Welcome to the Workspace for HCR 218 Task Force on Fair and Proportional Fines
 
 The files below will also be made available as hard copies in binders at the first task force meeting. They are posted here to allow task force members to view materials in advance of the meeting and for those who prefer digital to hard copies. Supplementary files not found in the binders may also be posted here.
 
-### Markdown
+### HCR 218 Binder (Digital Version)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Fair and Proportional Fines Task Force
 
 ```markdown
 Syntax highlighted code block
 
-# 1. Hawai'i Materials
-- House
+**# 1. Hawaiʻi Materials**
+•	House Concurrent Resolution 218 – Creating the Fair and Proportional Fines Task Force
+•	Act 112 – Creating the Financial Hardship Task Force
+•	House Concurrent Resolution 261 - “Decriminalization of Non-Serious Offenses: Plan of Action” (2005)
+•	Senate Concurrent Resolution 98 - “Study to Identify Traffic Offenses and Crimes, Petty Misdemeanor Offenses, and Misdemeanor Offenses that Cause a Disproportionate Workload for the Judiciary and that May be Appropriate or Decriminalization as Infractions” (2015)
+•	FY2018 Statistical Supplement 
+•	State Comparison Chart 
+•	List of HRS/HAR Traffic and Criminal (misdemeanor and petty misdemeanor) Offenses (?)
+
 ## Header 2
 ### Header 3
 
