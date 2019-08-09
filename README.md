@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to the HCR 218 Task Force Workspace
 
-You can use the [editor on GitHub](https://github.com/adamcohen3/SLH2019-HCR218-Task-Force/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The files below will also be made available as hard copies in binders at the first task force meeting. They are posted here to allow task force members to view materials in advance of the meeting and for those who prefer digital to hard copies. Supplementary files not found in the binders may also be posted here.
 
 ### Markdown
 
@@ -11,7 +9,8 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
+# 1. Hawai'i Materials
+- House
 ## Header 2
 ### Header 3
 
