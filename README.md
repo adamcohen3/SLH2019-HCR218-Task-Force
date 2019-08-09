@@ -55,7 +55,7 @@ Pretrial Release Policies” (2016)](3- Arizona Task Force on Fines, Fees, and P
 
 •	[San Francisco, California “Can’t Afford to Pay Fine” Form](4- San Francisco corrected ATP Form 111418.pdf)
 
-•	Los Angeles, California Petition to Reduce or Vacate Civil Assessment/Petition for an Ability-to-Pay Determination[Part 1](4- TRAF051PetitionandOrderFormInfo.pdf), [Part 2](4- TRAF051PetitionandOrderreCRC4106and4335.pdf)
+•	Los Angeles, California Petition to Reduce or Vacate Civil Assessment/Petition for an Ability-to-Pay Determination: [Part 1](4- TRAF051PetitionandOrderFormInfo.pdf), [Part 2](4- TRAF051PetitionandOrderreCRC4106and4335.pdf)
 
 •	[LA Flow Chart](4- LA flow chart.pdf)
 
