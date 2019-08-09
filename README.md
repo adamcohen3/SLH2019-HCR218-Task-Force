@@ -11,12 +11,18 @@ Syntax highlighted code block
 
 **# 1. Hawaiʻi Materials**
 
-•	House Concurrent Resolution 218 – Creating the Fair and Proportional Fines Task Force
+•	[House Concurrent Resolution 218 – Creating the Fair and Proportional Fines Task Force] ()
+
 •	Act 112 – Creating the Financial Hardship Task Force
+
 •	House Concurrent Resolution 261 - “Decriminalization of Non-Serious Offenses: Plan of Action” (2005)
+
 •	Senate Concurrent Resolution 98 - “Study to Identify Traffic Offenses and Crimes, Petty Misdemeanor Offenses, and Misdemeanor Offenses that Cause a Disproportionate Workload for the Judiciary and that May be Appropriate or Decriminalization as Infractions” (2015)
+
 •	FY2018 Statistical Supplement 
+
 •	State Comparison Chart 
+
 •	List of HRS/HAR Traffic and Criminal (misdemeanor and petty misdemeanor) Offenses (?)
 
 
