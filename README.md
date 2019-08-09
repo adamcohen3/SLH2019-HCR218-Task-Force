@@ -6,7 +6,7 @@ The files below will also be made available as hard copies in binders at the fir
 
 Fair and Proportional Fines Task Force
 
-```markdown
+
 Syntax highlighted code block
 
 **# 1. Hawaiʻi Materials**
@@ -30,7 +30,7 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-```
+
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
