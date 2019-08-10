@@ -12,7 +12,7 @@ Fair and Proportional Fines Task Force</h2></center>
 
 •	[House Concurrent Resolution 261 - “Decriminalization of Non-Serious Offenses: Plan of Action” (2005)](1- HCR261_2004_LRB rpt decrim.pdf)
 
-•	[Senate Concurrent Resolution 98 - “Study to Identify Traffic Offenses and Crimes, Petty Misdemeanor Offenses, and Misdemeanor Offenses that Cause a Disproportionate Workload for the Judiciary and that May be Appropriate or Decriminalization as Infractions” (2015)](1- SCR98-SD1_FINAL_REPORT.pdf)
+•	[Senate Concurrent Resolution 98 - “Study to Identify Traffic Offenses and Crimes, Petty Misdemeanor Offenses, and Misdemeanor Offenses that Cause a Disproportionate Workload for the Judiciary and that May be Appropriate for Decriminalization as Infractions” (2015)](1- SCR98-SD1_FINAL_REPORT.pdf)
 
 •	[FY2018 Statistical Supplement](1- 2018_Annual_Report_Stats_Supplement_ADA.pdf)
 
