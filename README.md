@@ -60,3 +60,5 @@ Pretrial Release Policies” (2016)](3- Arizona Task Force on Fines, Fees, and P
 •	[The Atlantic, "Finland, Home of the $103,000 Speeding Ticket"](https://www.theatlantic.com/business/archive/2015/03/finland-home-of-the-103000-speeding-ticket/387484/)
 
 •	[Bureau of Justice Assistance (1996), "How To Use Structured Fines (Day Fines) as an Intermediate Sanction" Excerpt (Ch 1-4)](bja_1996_excerpt.pdf)
+
+•	[Colgan, B. A. (2017). Graduating economic sanctions according to ability to pay. Iowa L. Rev., 103, 53.](Colgan_2018.pdf)
