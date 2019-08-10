@@ -61,4 +61,4 @@ Pretrial Release Policies” (2016)](3- Arizona Task Force on Fines, Fees, and P
 
 •	[Bureau of Justice Assistance (1996), "How To Use Structured Fines (Day Fines) as an Intermediate Sanction" Excerpt (Ch 1-4)](bja_1996_excerpt.pdf)
 
-•	[Colgan, B. A. (2017). Graduating economic sanctions according to ability to pay. Iowa L. Rev., 103, 53.](Colgan_2018.pdf)
+•	Colgan, B. A. (2017). Graduating economic sanctions according to ability to pay. Iowa L. Rev., 103, 53. [Article](Colgan_2018.pdf), [Summary](https://finesandfeesjusticecenter.org/articles/graduating-economic-sanctions-day-fines/)
