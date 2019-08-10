@@ -16,10 +16,6 @@ Fair and Proportional Fines Task Force</h2></center>
 
 •	[FY2018 Statistical Supplement](1- 2018_Annual_Report_Stats_Supplement_ADA.pdf)
 
-•	State Comparison Chart (Hard copy only)
-
-•	List of HRS/HAR Traffic and Criminal (misdemeanor and petty misdemeanor) Offenses (Hard copy only)
-
 •	[Hawaii lawmaker seeks study on sliding-scale tickets, Star-Avertiser](1- Hawaii lawmaker seeks study on sliding-scale tickets_Star-Adv 04-16-19 (3).pdf)
 
 ### 2.  National Materials
@@ -61,5 +57,6 @@ Pretrial Release Policies” (2016)](3- Arizona Task Force on Fines, Fees, and P
 
 ### 5.  Day-Fines Research
 
-•	Forthcoming
+•	[The Atlantic, "Finland, Home of the $103,000 Speeding Ticket"](https://www.theatlantic.com/business/archive/2015/03/finland-home-of-the-103000-speeding-ticket/387484/)
 
+•	[Bureau of Justice Assistance (1996), "How To Use Structured Fines (Day Fines) as an Intermediate Sanction"](bja_1996_excerpt.pdf)
