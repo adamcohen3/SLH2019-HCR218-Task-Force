@@ -53,7 +53,7 @@ Pretrial Release Policies” (2016)](3- Arizona Task Force on Fines, Fees, and P
 
 •	Los Angeles, California Petition to Reduce or Vacate Civil Assessment/Petition for an Ability-to-Pay Determination: [Part 1](4- TRAF051PetitionandOrderFormInfo.pdf), [Part 2](4- TRAF051PetitionandOrderreCRC4106and4335.pdf)
 
-•	[LA Flow Chart](4- LA flow chart.pdf)
+•	[SF Flow Chart](4- LA flow chart.pdf)
 
 ### 5.  Day-Fines Research
 
